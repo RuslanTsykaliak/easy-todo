@@ -1,4 +1,4 @@
-** About the App:**
+***About the App:***
 
 - **Easy Todo** is a simple and elegant web application that allows you to create, edit, and delete tasks in a user-friendly interface.
 - You can also mark your tasks as completed or incomplete, and filter them by their status or keywords.
@@ -7,7 +7,7 @@
 - The app is responsive and works well on different screen sizes and devices.
 
 
-** Getting Started**
+***Getting Started***
 
 1. **Clone the repository:**
 
@@ -34,7 +34,7 @@
    Navigate to http://localhost:3000 in your browser.
 
 
-** Built With:**
+***Built With:***
 
 - **Next.js 13:** [https://nextjs.org/docs](https://nextjs.org/docs) (for powerful, performant React frameworks)
 - **JSON Server:** [https://www.npmjs.com/package/json-server](https://www.npmjs.com/package/json-server) (for creating mock APIs on the fly)
